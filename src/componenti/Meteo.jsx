@@ -7,7 +7,7 @@ function Meteo() {
     const [city, setCity] = useState("");
     
  
-    const API_KEY = "5404a798ebefdcf6756568eb816494d7";
+    const API_KEY = "your api key";
    
   
    
